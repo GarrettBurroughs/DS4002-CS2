@@ -1,8 +1,9 @@
 # DS4002-CS3
 
-This repository contains the study, deliverable, data, and reference materials necessary to complete the Case Study.
+This repository contains the project overview, deliverable, data, and reference materials necessary to complete a data science case study analyzing the script of The Office
+
 ## Important Information
-An overview of the case study, as well as a rubric, and additional references can be seen in the `Project Outline and Rubric.pdf` file. This should be the starting point when conducting the case study
+An overview of the case study, as well as a rubric, and additional references can be seen in the `Project Outline and Rubric.pdf` file in the root folder of the repostory. This should be the starting point when conducting the case study
 
 ## Data
 
